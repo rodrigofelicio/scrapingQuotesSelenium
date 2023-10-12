@@ -1,1 +1,1 @@
-Scraping Quotes Project
+Selenium Scraping Quotes Project
